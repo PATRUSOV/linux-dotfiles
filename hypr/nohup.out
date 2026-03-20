@@ -1,0 +1,158 @@
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (2), removing 16.6MB
+[LOG] Preloaded target /home/kotmarkot/Pictures/denji.jpg in 90.43ms -> Pixel size: [4583, 2894]
+[LOG] Preloaded target /home/kotmarkot/Pictures/spaceman-and-tyan.jpg in 43.79ms -> Pixel size: [1768, 2500]
+[LOG] Buffer created for target /home/kotmarkot/Pictures/spaceman-and-tyan.jpg, Shared Memory usage: 8.3MB
+[LOG] Buffer created for target /home/kotmarkot/Pictures/spaceman-and-tyan.jpg, Shared Memory usage: 8.3MB
+[LOG] Buffer created for target /home/kotmarkot/Pictures/denji.jpg, Shared Memory usage: 8.3MB
+[LOG] Buffer created for target /home/kotmarkot/Pictures/denji.jpg, Shared Memory usage: 8.3MB
+[LOG] Total SM usage for all buffers: 33.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/c4a4c341568944bd4fb9cd503558b2de602c0213_1753835244_1339139642/.hyprpaper.sock (fd: 5)
+[LOG] configure for DP-1
+[LOG] configure for DP-1
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for DP-1: /home/kotmarkot/Pictures/spaceman-and-tyan.jpg at [-180.88, 0.00], scale: 0.77 (original image size: [1768, 2500])
+[LOG] Submitting viewport dest size 1080x1920 for 563a9c6518a0
+[LOG] Image data for eDP-1: /home/kotmarkot/Pictures/denji.jpg at [0.00, -158.03], scale: 0.42 (original image size: [4583, 2894])
+[LOG] Submitting viewport dest size 1920x1080 for 563a9c651cf0
+[LOG] handlePreferredScale: 1.00 for 563a9c6518a0
+[LOG] handlePreferredScale: 1.00 for 563a9c651cf0
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (4), removing 33.2MB
+Error in config: 
+Config error in file /home/kotmarkot/.config/hypr/hyprpaper.conf at line 2: wallpaper failed (not preloaded)
+[LOG] Preloaded target /home/kotmarkot/Pictures/denji.jpg in 87.35ms -> Pixel size: [4583, 2894]
+[LOG] Preloaded target /home/kotmarkot/Pictures/spaceman-and-tyan.jpg in 43.40ms -> Pixel size: [1768, 2500]
+[LOG] Buffer created for target /home/kotmarkot/Pictures/spaceman-and-tyan.jpg, Shared Memory usage: 8.3MB
+[LOG] Buffer created for target /home/kotmarkot/Pictures/spaceman-and-tyan.jpg, Shared Memory usage: 8.3MB
+[LOG] Buffer created for target /home/kotmarkot/Pictures/denji.jpg, Shared Memory usage: 8.3MB
+[LOG] Buffer created for target /home/kotmarkot/Pictures/denji.jpg, Shared Memory usage: 8.3MB
+[LOG] Total SM usage for all buffers: 33.2MB
+[WARN] Monitor eDP-1 does not have a target! A wallpaper will not be created.
+[LOG] hyprpaper socket started at /run/user/1000/hypr/c4a4c341568944bd4fb9cd503558b2de602c0213_1753835244_1339139642/.hyprpaper.sock (fd: 5)
+[LOG] configure for DP-1
+[LOG] configure for DP-1
+[LOG] Image data for DP-1: /home/kotmarkot/Pictures/spaceman-and-tyan.jpg at [-180.88, 0.00], scale: 0.77 (original image size: [1768, 2500])
+[LOG] Submitting viewport dest size 1080x1920 for 55f949a308a0
+[LOG] handlePreferredScale: 1.00 for 55f949a308a0
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (4), removing 33.2MB
+Error in config: 
+Config error in file /home/kotmarkot/.config/hypr/hyprpaper.conf at line 2: wallpaper failed (not preloaded)
+[LOG] Preloaded target /home/kotmarkot/Pictures/denji.jpg in 87.72ms -> Pixel size: [4583, 2894]
+[LOG] Preloaded target /home/kotmarkot/Pictures/spaceman-and-tyan.jpg in 43.42ms -> Pixel size: [1768, 2500]
+[LOG] Buffer created for target /home/kotmarkot/Pictures/spaceman-and-tyan.jpg, Shared Memory usage: 8.3MB
+[LOG] Buffer created for target /home/kotmarkot/Pictures/spaceman-and-tyan.jpg, Shared Memory usage: 8.3MB
+[LOG] Buffer created for target /home/kotmarkot/Pictures/denji.jpg, Shared Memory usage: 8.3MB
+[LOG] Buffer created for target /home/kotmarkot/Pictures/denji.jpg, Shared Memory usage: 8.3MB
+[LOG] Total SM usage for all buffers: 33.2MB
+[WARN] Monitor eDP-1 does not have a target! A wallpaper will not be created.
+[LOG] hyprpaper socket started at /run/user/1000/hypr/c4a4c341568944bd4fb9cd503558b2de602c0213_1753835244_1339139642/.hyprpaper.sock (fd: 5)
+[LOG] configure for DP-1
+[LOG] configure for DP-1
+[LOG] Image data for DP-1: /home/kotmarkot/Pictures/spaceman-and-tyan.jpg at [-180.88, 0.00], scale: 0.77 (original image size: [1768, 2500])
+[LOG] Submitting viewport dest size 1080x1920 for 560118947a60
+[LOG] handlePreferredScale: 1.00 for 560118947a60
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (4), removing 33.2MB
+Error in config: 
+Config error in file /home/kotmarkot/.config/hypr/hyprpaper.conf at line 2: wallpaper failed (not preloaded)
+[LOG] Preloaded target /home/kotmarkot/Pictures/denji.jpg in 88.30ms -> Pixel size: [4583, 2894]
+[LOG] Preloaded target /home/kotmarkot/Pictures/spaceman-and-tyan.jpg in 42.72ms -> Pixel size: [1768, 2500]
+[LOG] Buffer created for target /home/kotmarkot/Pictures/spaceman-and-tyan.jpg, Shared Memory usage: 8.3MB
+[LOG] Buffer created for target /home/kotmarkot/Pictures/spaceman-and-tyan.jpg, Shared Memory usage: 8.3MB
+[LOG] Buffer created for target /home/kotmarkot/Pictures/denji.jpg, Shared Memory usage: 8.3MB
+[LOG] Buffer created for target /home/kotmarkot/Pictures/denji.jpg, Shared Memory usage: 8.3MB
+[LOG] Total SM usage for all buffers: 33.2MB
+[WARN] Monitor eDP-1 does not have a target! A wallpaper will not be created.
+[LOG] hyprpaper socket started at /run/user/1000/hypr/c4a4c341568944bd4fb9cd503558b2de602c0213_1753835244_1339139642/.hyprpaper.sock (fd: 5)
+[LOG] configure for DP-1
+[LOG] configure for DP-1
+[LOG] Image data for DP-1: /home/kotmarkot/Pictures/spaceman-and-tyan.jpg at [-180.88, 0.00], scale: 0.77 (original image size: [1768, 2500])
+[LOG] Submitting viewport dest size 1080x1920 for 55a17a05fa00
+[LOG] handlePreferredScale: 1.00 for 55a17a05fa00
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (4), removing 33.2MB
+Error in config: 
+Config error in file /home/kotmarkot/.config/hypr/hyprpaper.conf at line 2: wallpaper failed (not preloaded)
+[LOG] Preloaded target /home/kotmarkot/Pictures/denji.jpg in 88.25ms -> Pixel size: [4583, 2894]
+[LOG] Preloaded target /home/kotmarkot/Pictures/spaceman-and-tyan.jpg in 44.26ms -> Pixel size: [1768, 2500]
+[LOG] Buffer created for target /home/kotmarkot/Pictures/spaceman-and-tyan.jpg, Shared Memory usage: 8.3MB
+[LOG] Buffer created for target /home/kotmarkot/Pictures/spaceman-and-tyan.jpg, Shared Memory usage: 8.3MB
+[LOG] Buffer created for target /home/kotmarkot/Pictures/denji.jpg, Shared Memory usage: 8.3MB
+[LOG] Buffer created for target /home/kotmarkot/Pictures/denji.jpg, Shared Memory usage: 8.3MB
+[LOG] Total SM usage for all buffers: 33.2MB
+[WARN] Monitor eDP-1 does not have a target! A wallpaper will not be created.
+[LOG] hyprpaper socket started at /run/user/1000/hypr/c4a4c341568944bd4fb9cd503558b2de602c0213_1753835244_1339139642/.hyprpaper.sock (fd: 5)
+[LOG] configure for DP-1
+[LOG] configure for DP-1
+[LOG] Image data for DP-1: /home/kotmarkot/Pictures/spaceman-and-tyan.jpg at [-180.88, 0.00], scale: 0.77 (original image size: [1768, 2500])
+[LOG] Submitting viewport dest size 1080x1920 for 555ba7215a00
+[LOG] handlePreferredScale: 1.00 for 555ba7215a00
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (4), removing 33.2MB
+Error in config: 
+Config error in file /home/kotmarkot/.config/hypr/hyprpaper.conf at line 2: wallpaper failed (not preloaded)
+[LOG] Preloaded target /home/kotmarkot/Pictures/denji.jpg in 88.82ms -> Pixel size: [4583, 2894]
+[LOG] Preloaded target /home/kotmarkot/Pictures/spaceman-and-tyan.jpg in 43.84ms -> Pixel size: [1768, 2500]
+[LOG] Buffer created for target /home/kotmarkot/Pictures/spaceman-and-tyan.jpg, Shared Memory usage: 8.3MB
+[LOG] Buffer created for target /home/kotmarkot/Pictures/spaceman-and-tyan.jpg, Shared Memory usage: 8.3MB
+[LOG] Buffer created for target /home/kotmarkot/Pictures/denji.jpg, Shared Memory usage: 8.3MB
+[LOG] Buffer created for target /home/kotmarkot/Pictures/denji.jpg, Shared Memory usage: 8.3MB
+[LOG] Total SM usage for all buffers: 33.2MB
+[WARN] Monitor eDP-1 does not have a target! A wallpaper will not be created.
+[LOG] hyprpaper socket started at /run/user/1000/hypr/c4a4c341568944bd4fb9cd503558b2de602c0213_1753835244_1339139642/.hyprpaper.sock (fd: 5)
+[LOG] configure for DP-1
+[LOG] configure for DP-1
+[LOG] Image data for DP-1: /home/kotmarkot/Pictures/spaceman-and-tyan.jpg at [-180.88, 0.00], scale: 0.77 (original image size: [1768, 2500])
+[LOG] Submitting viewport dest size 1080x1920 for 55b70862dae0
+[LOG] handlePreferredScale: 1.00 for 55b70862dae0
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (4), removing 33.2MB
+[LOG] Preloaded target /home/kotmarkot/Pictures/perfectr-samurai-pic.png in 50.15ms -> Pixel size: [3840, 2160]
+[LOG] Preloaded target /home/kotmarkot/Pictures/spaceman-and-tyan.jpg in 44.86ms -> Pixel size: [1768, 2500]
+[LOG] Buffer created for target /home/kotmarkot/Pictures/spaceman-and-tyan.jpg, Shared Memory usage: 8.3MB
+[LOG] Buffer created for target /home/kotmarkot/Pictures/spaceman-and-tyan.jpg, Shared Memory usage: 8.3MB
+[LOG] Buffer created for target /home/kotmarkot/Pictures/perfectr-samurai-pic.png, Shared Memory usage: 8.3MB
+[LOG] Buffer created for target /home/kotmarkot/Pictures/perfectr-samurai-pic.png, Shared Memory usage: 8.3MB
+[LOG] Total SM usage for all buffers: 33.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/c4a4c341568944bd4fb9cd503558b2de602c0213_1753835244_1339139642/.hyprpaper.sock (fd: 5)
+[LOG] configure for DP-1
+[LOG] configure for DP-1
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for DP-1: /home/kotmarkot/Pictures/spaceman-and-tyan.jpg at [-180.88, 0.00], scale: 0.77 (original image size: [1768, 2500])
+[LOG] Submitting viewport dest size 1080x1920 for 555d031770f0
+[LOG] Image data for eDP-1: /home/kotmarkot/Pictures/perfectr-samurai-pic.png at [-0.00, 0.00], scale: 0.50 (original image size: [3840, 2160])
+[LOG] Submitting viewport dest size 1920x1080 for 555d03177bc0
+[LOG] handlePreferredScale: 1.00 for 555d031770f0
+[LOG] handlePreferredScale: 1.00 for 555d03177bc0
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (4), removing 33.2MB
+[LOG] Preloaded target /home/kotmarkot/Pictures/perfectr-samurai-pic.jpg in 49.79ms -> Pixel size: [3840, 2160]
+[LOG] Preloaded target /home/kotmarkot/Pictures/spaceman-and-tyan.jpg in 43.52ms -> Pixel size: [1768, 2500]
+[LOG] Buffer created for target /home/kotmarkot/Pictures/spaceman-and-tyan.jpg, Shared Memory usage: 8.3MB
+[LOG] Buffer created for target /home/kotmarkot/Pictures/spaceman-and-tyan.jpg, Shared Memory usage: 8.3MB
+[LOG] Buffer created for target /home/kotmarkot/Pictures/perfectr-samurai-pic.jpg, Shared Memory usage: 8.3MB
+[LOG] Buffer created for target /home/kotmarkot/Pictures/perfectr-samurai-pic.jpg, Shared Memory usage: 8.3MB
+[LOG] Total SM usage for all buffers: 33.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/c4a4c341568944bd4fb9cd503558b2de602c0213_1753835244_1339139642/.hyprpaper.sock (fd: 5)
+[LOG] configure for DP-1
+[LOG] configure for DP-1
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for DP-1: /home/kotmarkot/Pictures/spaceman-and-tyan.jpg at [-180.88, 0.00], scale: 0.77 (original image size: [1768, 2500])
+[LOG] Submitting viewport dest size 1080x1920 for 55d215649820
+[LOG] Image data for eDP-1: /home/kotmarkot/Pictures/perfectr-samurai-pic.jpg at [-0.00, 0.00], scale: 0.50 (original image size: [3840, 2160])
+[LOG] Submitting viewport dest size 1920x1080 for 55d215649c40
+[LOG] handlePreferredScale: 1.00 for 55d215649820
+[LOG] handlePreferredScale: 1.00 for 55d215649c40
